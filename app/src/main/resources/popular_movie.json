@@ -1,0 +1,405 @@
+{
+  "page": 1,
+  "movies": [
+    {
+      "adult": false,
+      "backdrop_path": "/5P8SmMzSNYikXpxil6BYzJ16611.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 414906,
+      "original_language": "en",
+      "original_title": "The Batman",
+      "overview": "",
+      "popularity": 2907.787,
+      "poster_path": "/3VFI3zbuNhXzx7dIbYdmvBLekyB.jpg",
+      "release_date": "2022-03-02",
+      "title": "The Batman",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 2861
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        14
+      ],
+      "id": 635302,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限列車編",
+      "overview": "Tanjirou Kamado dan teman-temannya Pembasmi Iblis menemani Hashira Api Kyoujirou Rengoku, untuk menyelidiki kasus misterius yang terjadi di dalam kereta. Tak banyak yang mereka ketahui tentang keberadaan Enmu, salah satu dari Dua Belas Kizuki yang juga berada di dalam kereta dan telah menyiapkan perangkap untuk mereka.",
+      "popularity": 1147.206,
+      "poster_path": "/m9cn5mhW519QKr1YGpGxNWi98VJ.jpg",
+      "release_date": "2021-01-06",
+      "title": "Demon Slayer - Kimetsu no Yaiba - The Movie: Mugen Train",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 2333
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oojlC3gH0bxD7hsnQa3kE9WbEBy.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 765119,
+      "original_language": "en",
+      "original_title": "The Bubble",
+      "overview": "",
+      "popularity": 1113.117,
+      "poster_path": "/edYk5TSowZIDv138bCpF5ls3XI5.jpg",
+      "release_date": "2022-04-01",
+      "title": "The Bubble",
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 153
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 566525,
+      "original_language": "en",
+      "original_title": "Shang-Chi and the Legend of the Ten Rings",
+      "overview": "Shang-Chi harus menghadapi masa lalu yang dia pikir telah di lupakan dan menghadapi ayahnya, pimpinan organisasi Sepuluh Cincin yang berbahaya.",
+      "popularity": 1057.709,
+      "poster_path": "/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+      "release_date": "2021-09-01",
+      "title": "Shang-Chi dan Legenda Sepuluh Cincin",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 6177
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4840rkbpsiuow5ew155oVKcqJwj.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 615,
+      "original_language": "en",
+      "original_title": "The Passion of the Christ",
+      "overview": "",
+      "popularity": 1150.265,
+      "poster_path": "/2C9vyK6leWDb2ds65R7uIwSmh8V.jpg",
+      "release_date": "2004-07-21",
+      "title": "The Passion of the Christ",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 3368
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/geYUecpFI2AonDLhjyK9zoVFcMv.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        9648
+      ],
+      "id": 810693,
+      "original_language": "ja",
+      "original_title": "劇場版 呪術廻戦 0",
+      "overview": "",
+      "popularity": 558.207,
+      "poster_path": "/7wZAwXRt8cZSavUkZxKCc2dDnaE.jpg",
+      "release_date": "2022-03-16",
+      "title": "劇場版 呪術廻戦 0",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 102
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
+      "genre_ids": [
+        28,
+        14,
+        12
+      ],
+      "id": 460465,
+      "original_language": "en",
+      "original_title": "Mortal Kombat",
+      "overview": "",
+      "popularity": 601.374,
+      "poster_path": "/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+      "release_date": "2021-04-14",
+      "title": "Mortal Kombat",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 4548
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 370172,
+      "original_language": "en",
+      "original_title": "No Time to Die",
+      "overview": "Bond telah meninggalkan agensi dan menikmati kehidupan yang tenang di Jamaika. Kehidupan damainya berakhir setelah teman lamanya Felix Leiter dari CIA muncul dan meminta bantuannya. Misi awal untuk menyelamatkan ilmuwan yang diculik berkembang menjadi lebih rumit dari yang diharapkan, Bond dihadapkan dengan seorang penjahat misterius yang memiliki senjata teknologi terbaru yang berbahaya.",
+      "popularity": 557.767,
+      "poster_path": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "release_date": "2021-09-30",
+      "title": "No Time to Die",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 3843
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 438631,
+      "original_language": "en",
+      "original_title": "Dune",
+      "overview": "Dune berkisah tentang seorang pemuda bernama Paul Atreides yang diperankan oleh Timothee Chalamet yang akan pindah dari tempat tinggalnya saat ini di Caladan bersama anggota keluarganya.  Paul dan keluarganya akan menjalani hidup baru di sebuah planet lain yang bernama planet Arrakis. Arrakis merupakan planet dengan kondisi alam berupa gurun pasir yang luas.  Sekilas, planet Arrakis merupakan planet yang gersang karena merupakan gurun. Akan tetapi Arrakis menyimpan hal istimewa di dalamnya. Arrakis menyimpan rempah-rempah yang disebut spice. Spice di Arrakis sangat melimpah dan mengandung khasiat istimewa.",
+      "popularity": 580.471,
+      "poster_path": "/8hoD5BQuUV9dDecAbiyVIxLjzZ9.jpg",
+      "release_date": "2021-10-01",
+      "title": "Dune",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 6670
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jlQJDD0L5ZojjlS0KYnApdO0n19.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        878
+      ],
+      "id": 19995,
+      "original_language": "en",
+      "original_title": "Avatar",
+      "overview": "Pada abad ke-22, seorang Marinir lumpuh dikirim ke Pandora bulan pada misi yang unik, tetapi menjadi terpecah antara mengikuti perintah dan melindungi peradaban alien.",
+      "popularity": 457.734,
+      "poster_path": "/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "release_date": "2010-09-01",
+      "title": "Avatar",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 25215
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fWjcUTKOKsAPK4VUAzEQW4kN4K6.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53,
+        12
+      ],
+      "id": 385128,
+      "original_language": "en",
+      "original_title": "F9",
+      "overview": "Dom Toretto (Vin Diesel) menjalani kehidupan yang tenang dengan Letty dan putranya, Brian kecil, tetapi mereka tahu bahwa bahaya selalu mengintai. Kali ini, ancaman itu akan memaksa Dom untuk menghadapi kesalahan dari masa lalunya jika dia ingin menyelamatkan orang yang paling dia cintai. Krunya bergabung bersama untuk menghentikan sesuatu yang dapat menghancurkan dunia. serangan dipimpin oleh pembunuh paling terampil dan pengemudi yang sangat handal dan juga merupakan saudara laki-laki Dom yang ditinggalkan, Jakob (John Cena)",
+      "popularity": 494.814,
+      "poster_path": "/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",
+      "release_date": "2021-06-11",
+      "title": "F9",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 5238
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        878
+      ],
+      "id": 791373,
+      "original_language": "en",
+      "original_title": "Zack Snyder's Justice League",
+      "overview": "",
+      "popularity": 458.051,
+      "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "release_date": "2021-03-18",
+      "title": "Zack Snyder's Justice League",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 7612
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4A6eynbHIRn03F9AugE0hPf8uO9.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 623135,
+      "original_language": "ko",
+      "original_title": "싱크홀",
+      "overview": "",
+      "popularity": 441.784,
+      "poster_path": "/l71a3Mh4PbOZwbIOlcsi3QcezK5.jpg",
+      "release_date": "2021-09-29",
+      "title": "싱크홀",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 41
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rcUcYzGGicDvhDs58uM44tJKB9F.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        28,
+        12
+      ],
+      "id": 527774,
+      "original_language": "en",
+      "original_title": "Raya and the Last Dragon",
+      "overview": "Dahulu kala, di dunia fantasi Kumandra, manusia dan naga hidup bersama secara harmonis. Tetapi ketika kekuatan jahat mengancam negeri itu, para naga mengorbankan diri mereka untuk menyelamatkan umat manusia. Sekarang, 500 tahun kemudian, kejahatan yang sama telah kembali dan terserah seorang pejuang tunggal, Raya, untuk melacak naga terakhir yang legendaris untuk memulihkan tanah yang retak dan orang-orangnya yang terpecah.",
+      "popularity": 354.682,
+      "poster_path": "/2AZIBU24AUn3c81WKinupffALjP.jpg",
+      "release_date": "2021-03-03",
+      "title": "Raya and the Last Dragon",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 5205
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
+      "genre_ids": [
+        28,
+        14,
+        878
+      ],
+      "id": 399566,
+      "original_language": "en",
+      "original_title": "Godzilla vs. Kong",
+      "overview": "menceritakan pertarungan dua kekuatan terbesar di muka bumi. Antara Godzilla, monster evolusi kadal yang menjadi legenda Jepang dengan Kong, gorila raksasa",
+      "popularity": 409.778,
+      "poster_path": "/lrSjP0NS9urCQlSBaqs0kfmb5bY.jpg",
+      "release_date": "2021-03-24",
+      "title": "Godzilla vs. Kong",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 7787
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 588228,
+      "original_language": "en",
+      "original_title": "The Tomorrow War",
+      "overview": "",
+      "popularity": 401.38,
+      "poster_path": "/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",
+      "release_date": "2021-07-02",
+      "title": "The Tomorrow War",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 5320
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 671,
+      "original_language": "en",
+      "original_title": "Harry Potter and the Philosopher's Stone",
+      "overview": "Harry Potter telah tinggal di bawah tangga di rumah bibinya dan rumah pamannya sepanjang hidupnya. Tetapi pada ulang tahunnya yang ke-11, ia mengetahui bahwa ia adalah penyihir yang kuat - dengan tempat yang menunggunya di Sekolah Sihir dan Penyihir Hogwarts. Ketika dia belajar untuk memanfaatkan kekuatan yang baru ditemukannya dengan bantuan kepala sekolah yang ramah, Harry mengungkap kebenaran tentang kematian orangtuanya - dan tentang penjahat yang harus disalahkan.",
+      "popularity": 382.564,
+      "poster_path": "/jltsWuPiQhXK8bDdQubUU8xb7UY.jpg",
+      "release_date": "2001-12-19",
+      "title": "Harry Potter dan Batu Bertuah",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 22410
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 632357,
+      "original_language": "en",
+      "original_title": "The Unholy",
+      "overview": "",
+      "popularity": 383.885,
+      "poster_path": "/cFOWiYDQ8Nttmt0K6PU38L48wWK.jpg",
+      "release_date": "2021-03-31",
+      "title": "The Unholy",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 1580
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mFbS5TwN95BcSEfiztdchLgTQ0v.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 617653,
+      "original_language": "en",
+      "original_title": "The Last Duel",
+      "overview": "",
+      "popularity": 401.282,
+      "poster_path": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "release_date": "2021-10-15",
+      "title": "The Last Duel",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 2002
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 423108,
+      "original_language": "en",
+      "original_title": "The Conjuring: The Devil Made Me Do It",
+      "overview": "Ceritanya pada 24 November 1981 di Brookfield, Connecticut, Arne Cheyenne Johnson disidang kasus pembunuhan tingkat pertama atas kematian seorang tuan tanah bernama Alan Bono. Kasus tersebut menjadi terkenal karena melibatkan untuk pertama kalinya unsur \"kerasukan setan\" dalam sebuah persidangan atas kasus pembunuhan.",
+      "popularity": 379.584,
+      "poster_path": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "release_date": "2021-06-02",
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 4338
+    }
+  ],
+  "total_pages": 191,
+  "total_results": 3811
+}

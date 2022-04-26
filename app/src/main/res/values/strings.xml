@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cinemax</string>
+
+    // Onboard
+    <string name="onboard_title_first">Access Anywhere</string>
+    <string name="onboard_title_second">Updated Movies</string>
+    <string name="onboard_title_third">Stay Healthy</string>
+    <string name="onboard_desc_first">Movies can be accessed\nfrom anywhere in your house to\nhelp you.</string>
+    <string name="onboard_desc_second">Movie &amp; TV information and\nupdates movie trailer</string>
+    <string name="onboard_desc_third">Watch to your favorite movie &amp; tv anywhere\nwithout an internet connection</string>
+
+    // Button
+    <string name="btn_onboard">Get Started</string>
+    <string name="btn_next">Next</string>
+    <string name="onboard_image">Onboard Image</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+</resources>

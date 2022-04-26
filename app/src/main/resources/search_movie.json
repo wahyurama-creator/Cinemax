@@ -1,0 +1,399 @@
+{
+  "page": 1,
+  "movies": [
+    {
+      "adult": false,
+      "backdrop_path": "/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 24428,
+      "original_language": "en",
+      "original_title": "The Avengers",
+      "overview": "Ketika musuh yang tak terduga muncul, mengancam keselamatan dan keamanan dunia, Nick Fury, direktur Badan Perdamaian Internasional, dikenal sebagai S.H.I.E.L.D. , membutuhkan tim untuk menyelamatkan dunia dari bencana. Usaha perekrutan pun dimulai  Iron Man, Captain America, Hulk, Thor, Black Widow dan Hawkeye dikumpulkan untuk menaklukkan Dewa Kehancuran, Loki, dalam usahanya menghancurkan bumi. Dengan semua gabungan kekuatan, tugas nampak lebih mudah. Namun kenyatannya tidak demikian!  Para pahlawan super justru saling melawan satu sama lain  Hulk melawan Captain America, siapa yang akan menang? Apakah Iron Man dapat mengalahkan kekuatan super milik Thor? Bagaimana para pahlawan super ini secara bersama-sama menghadapi bencana, melindungi masyarakat dan yang terpenting, bertahan hidup?",
+      "popularity": 332.796,
+      "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "release_date": "2012-05-04",
+      "title": "The Avengers",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 26723
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "genre_ids": [
+        12,
+        878,
+        28
+      ],
+      "id": 299534,
+      "original_language": "en",
+      "original_title": "Avengers: Endgame",
+      "overview": "Terdampar di luar angkasa tanpa persediaan makanan dan minuman, Tony Stark berusaha mengirim pesan untuk Pepper Potts dimana persediaan oksigen mulai menipis. Sementara itu para Avengers yang tersisa harus menemukan cara untuk mengembalikan 50% mahluk di seluruh dunia yang telah dilenyapkan oleh Thanos.",
+      "popularity": 303.079,
+      "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "release_date": "2019-04-24",
+      "title": "Avengers: Endgame",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 20798
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 299536,
+      "original_language": "en",
+      "original_title": "Avengers: Infinity War",
+      "overview": "Karena Avengers dan sekutunya terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh seorang pahlawan, bahaya baru telah muncul dari bayangan kosmik: Thanos. Seorang lalim penghujatan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan kehendak memutar pada semua realitas. Segala sesuatu yang telah diperjuangkan oleh Avengers telah berkembang hingga saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.",
+      "popularity": 442.803,
+      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "release_date": "2018-04-25",
+      "title": "Avengers: Infinity War",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 24359
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xnqust9Li4oxfhXD5kcPi3UC8i4.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 99861,
+      "original_language": "en",
+      "original_title": "Avengers: Age of Ultron",
+      "overview": "Saat Tony Stark (Robert Downey Jr) memutuskan untuk membuat program perdamaian. Tony menciptakan robot cerdas Ultron untuk menggantikan peran Iron Man, Captain America, Thor, The Incredible Hulk, Black Widow dan Hawkeye. Tapi Ternyata Ultron mampu berfikir dan memiliki niat jahat yang sangat mengerikan.  Ultron kini menjadi musuh bersama tim Avengers. Tidak mudah bagi tim untuk membasmi Ultron disaat mereka terancam tercerai berai karena berbeda pendapat. Tim Avengers harus bisa menghentikan rencana jahat Ultron dan membangun kekuatan bersama untuk menyelamatkan bumi dari kehancuran.",
+      "popularity": 223.809,
+      "poster_path": "/dsZUpJ6ml5dQpI7vBdscveCv4aB.jpg",
+      "release_date": "2015-04-22",
+      "title": "Avengers: Age of Ultron",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 19668
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qzzAt0GakCZzbCeCJ0sFGhMIcdv.jpg",
+      "genre_ids": [
+        28,
+        14
+      ],
+      "id": 323660,
+      "original_language": "en",
+      "original_title": "Avengers Grimm",
+      "overview": "",
+      "popularity": 72.157,
+      "poster_path": "/1SbBKCbnULACOqWKN7eLfTu1gVm.jpg",
+      "release_date": "2015-03-17",
+      "title": "Avengers Grimm",
+      "video": false,
+      "vote_average": 4,
+      "vote_count": 97
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fryen9fnjlm0YibKTDNGzWNBOSo.jpg",
+      "genre_ids": [
+        53,
+        878
+      ],
+      "id": 9320,
+      "original_language": "en",
+      "original_title": "The Avengers",
+      "overview": "",
+      "popularity": 30.871,
+      "poster_path": "/1p5thyQ4pCy876HpdvFARqJ62N9.jpg",
+      "release_date": "1998-11-28",
+      "title": "The Avengers",
+      "video": false,
+      "vote_average": 4.4,
+      "vote_count": 553
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ldxi7dKtud2KrStUr8V9P65ixNr.jpg",
+      "genre_ids": [
+        12,
+        16,
+        28,
+        878
+      ],
+      "id": 14611,
+      "original_language": "en",
+      "original_title": "Ultimate Avengers 2",
+      "overview": "",
+      "popularity": 32.131,
+      "poster_path": "/bsDLG069v8esZkI2owKvduQIrq.jpg",
+      "release_date": "2006-08-08",
+      "title": "Ultimate Avengers 2",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 225
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gCzHEi6g8K0LIWlr6A38fmgtEfb.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        28,
+        12,
+        878
+      ],
+      "id": 14613,
+      "original_language": "en",
+      "original_title": "Next Avengers: Heroes of Tomorrow",
+      "overview": "",
+      "popularity": 39.85,
+      "poster_path": "/4NL4vwuh6AlwgGoNNlhVp52DRfi.jpg",
+      "release_date": "2008-09-02",
+      "title": "Next Avengers: Heroes of Tomorrow",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 193
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9tjIgkkbajG2zMI4Yk21hpttXv0.jpg",
+      "genre_ids": [
+        28,
+        16,
+        10751,
+        12,
+        878
+      ],
+      "id": 14609,
+      "original_language": "en",
+      "original_title": "Ultimate Avengers: The Movie",
+      "overview": "",
+      "popularity": 29.233,
+      "poster_path": "/vd7GyPkDvDDfvcxgWAfkGpKiAkH.jpg",
+      "release_date": "2006-02-21",
+      "title": "Ultimate Avengers: The Movie",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 271
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 347158,
+      "original_language": "en",
+      "original_title": "Bikini Avengers",
+      "overview": "",
+      "popularity": 19.524,
+      "poster_path": "/ehTYWuPKwl8sXPX0I6LnvJUDaVl.jpg",
+      "release_date": "2015-02-24",
+      "title": "Bikini Avengers",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sORO7a1cSghfWE5GD4cSJ0qTN8O.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 521720,
+      "original_language": "en",
+      "original_title": "Avengers Grimm: Time Wars",
+      "overview": "",
+      "popularity": 19.278,
+      "poster_path": "/xfAcu74DRQXeM9XqFcE5MrSRzYP.jpg",
+      "release_date": "2018-05-01",
+      "title": "Avengers Grimm: Time Wars",
+      "video": false,
+      "vote_average": 4.9,
+      "vote_count": 43
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6zXs4OyZM6U4reYvddsJWeByxMX.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 448366,
+      "original_language": "en",
+      "original_title": "Building the Dream: Assembling the Avengers",
+      "overview": "",
+      "popularity": 24.618,
+      "poster_path": "/coS6rIaucxDzq20kiJozTgQ0Nmk.jpg",
+      "release_date": "2012-09-25",
+      "title": "Building the Dream: Assembling the Avengers",
+      "video": true,
+      "vote_average": 8.4,
+      "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zvjBC9guJVw32bZu4ODp6wzJ9Vi.jpg",
+      "genre_ids": [
+        10751,
+        16
+      ],
+      "id": 368304,
+      "original_language": "en",
+      "original_title": "LEGO Marvel Super Heroes: Avengers Reassembled!",
+      "overview": "",
+      "popularity": 22.488,
+      "poster_path": "/xUBZNoY7idPfqKZepnDEv7Qc8GC.jpg",
+      "release_date": "2015-11-16",
+      "title": "LEGO Marvel Super Heroes: Avengers Reassembled!",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 93
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 448368,
+      "original_language": "en",
+      "original_title": "The Avengers: A Visual Journey",
+      "overview": "",
+      "popularity": 17.198,
+      "poster_path": "/2kBT7KONKQTIhkMc2ZtPU11E8Ky.jpg",
+      "release_date": "2012-09-25",
+      "title": "The Avengers: A Visual Journey",
+      "video": true,
+      "vote_average": 7.9,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fYVwmnRDCGQIpKA0QpzIEkczSes.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        28,
+        12
+      ],
+      "id": 940543,
+      "original_language": "en",
+      "original_title": "LEGO Marvel Avengers: Time Twisted",
+      "overview": "",
+      "popularity": 11.582,
+      "poster_path": "/7nA9AjJ8iZvbBPsFPC2FNoFj568.jpg",
+      "release_date": "2022-01-17",
+      "title": "LEGO Marvel Avengers: Time Twisted",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10770,
+        35,
+        878
+      ],
+      "id": 223291,
+      "original_language": "en",
+      "original_title": "Alien Avengers II",
+      "overview": "",
+      "popularity": 3.534,
+      "poster_path": "/4L3ajGP3ZsnM8xIrXjwEZOLYBjb.jpg",
+      "release_date": "1997-10-25",
+      "title": "Alien Avengers II",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/boX7D2wHtf01C7AzzPuVZAzc74x.jpg",
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 58906,
+      "original_language": "en",
+      "original_title": "Alien Avengers",
+      "overview": "",
+      "popularity": 3.185,
+      "poster_path": "/Akd3Aqrr2q8PLKOCPOkOnB3AoJk.jpg",
+      "release_date": "1996-08-03",
+      "title": "Alien Avengers",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7dxHsaSxrkowFFmg7gInn0l9sh2.jpg",
+      "genre_ids": [
+        35,
+        14
+      ],
+      "id": 538153,
+      "original_language": "en",
+      "original_title": "Avengers of Justice: Farce Wars",
+      "overview": "",
+      "popularity": 7.08,
+      "poster_path": "/yymsCwKPbJIF1xcl2ih8fl7OxAa.jpg",
+      "release_date": "2018-07-20",
+      "title": "Avengers of Justice: Farce Wars",
+      "video": false,
+      "vote_average": 4.1,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10751,
+        16,
+        28
+      ],
+      "id": 899249,
+      "original_language": "en",
+      "original_title": "LEGO Marvel Avengers: Loki in Training",
+      "overview": "",
+      "popularity": 6.814,
+      "poster_path": "/eyBifMbovoQbyuNXHOFYo7tsInp.jpg",
+      "release_date": "2021-11-01",
+      "title": "LEGO Marvel Avengers: Loki in Training",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 487555,
+      "original_language": "en",
+      "original_title": "The Avengers: Earth's Mightiest Heroes - Prelude",
+      "overview": "",
+      "popularity": 3.965,
+      "poster_path": "/3o7MpOaDkeAcvxqEjgbIcXrcepB.jpg",
+      "release_date": "2010-09-22",
+      "title": "The Avengers: Earth's Mightiest Heroes - Prelude",
+      "video": true,
+      "vote_average": 7.5,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 3,
+  "total_results": 50
+}
