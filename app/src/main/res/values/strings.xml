@@ -15,4 +15,12 @@
     <string name="onboard_image">Onboard Image</string>
     <string name="skip">Skip</string>
     <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="auth_desc">Enter your registered\nPhone Number to Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_account">I already have an account?</string>
+    <string name="login">Login</string>
+    <string name="or_sign_up_with">Or Sign up with</string>
+    <string name="google_sign_up">Google Sign Up</string>
 </resources>
