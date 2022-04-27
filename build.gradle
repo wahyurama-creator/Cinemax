@@ -11,6 +11,7 @@ buildscript {
         lottie_version = "5.0.3"
         glide_version = "4.13.0"
         room_version = "2.4.2"
+        play_service_version = "20.1.0"
     }
 }
 
