@@ -7,4 +7,6 @@
     android:background="@color/primary_dark"
     tools:context=".presentation.ui.auth.AuthActivity">
 
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
