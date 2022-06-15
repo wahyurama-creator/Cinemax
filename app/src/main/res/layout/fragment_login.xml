@@ -9,7 +9,7 @@
     tools:context=".presentation.ui.auth.login.LoginFragment">
 
     <ImageButton
-        android:id="@+id/imageButton"
+        android:id="@+id/ibBack"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/bg_icon_header"
@@ -28,11 +28,11 @@
         android:layout_height="wrap_content"
         android:text="@string/login"
         android:textSize="16sp"
-        app:layout_constraintBottom_toBottomOf="@+id/imageButton"
+        app:layout_constraintBottom_toBottomOf="@+id/ibBack"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/imageButton" />
+        app:layout_constraintTop_toTopOf="@+id/ibBack" />
 
     <TextView
         android:id="@+id/tvUsernameLogin"
@@ -44,7 +44,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton"
+        app:layout_constraintTop_toBottomOf="@+id/ibBack"
         tools:text="Hi, Tiffany" />
 
     <TextView
@@ -86,6 +86,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/montserrat_regular"
             android:inputType="textEmailAddress"
+            android:textCursorDrawable="@drawable/cursor_edittext_color"
             android:textColor="@color/text__white_grey" />
 
     </com.google.android.material.textfield.TextInputLayout>
@@ -95,8 +96,9 @@
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="14dp"
         android:hint="@string/label_password"
+
         android:textColorHint="@color/text_grey"
         app:boxCornerRadiusBottomEnd="28dp"
         app:boxCornerRadiusBottomStart="28dp"
@@ -104,6 +106,8 @@
         app:boxCornerRadiusTopStart="28dp"
         app:boxStrokeColor="@color/outline_stroke_color"
         app:hintTextColor="@color/text_white"
+        app:endIconMode="password_toggle"
+        app:endIconTint="@color/text_grey"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/input_layout_email"
@@ -113,10 +117,38 @@
             android:id="@+id/edit_text_password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textCursorDrawable="@drawable/cursor_edittext_color"
             android:fontFamily="@font/montserrat_regular"
             android:inputType="textPassword|numberPassword"
             android:textColor="@color/text__white_grey" />
 
     </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:id="@+id/tvForgotPasswordLogin"
+        style="@style/MontserratMedium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/forgot_password"
+        android:textColor="@color/primary_blue"
+        app:layout_constraintEnd_toEndOf="@id/input_layout_password"
+        app:layout_constraintTop_toBottomOf="@id/input_layout_password" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        style="@style/MontserratMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:padding="18dp"
+        android:text="@string/login"
+        android:textSize="16sp"
+        app:backgroundTint="@color/primary_blue"
+        app:cornerRadius="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvForgotPasswordLogin" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
