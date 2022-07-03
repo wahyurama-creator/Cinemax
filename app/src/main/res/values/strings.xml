@@ -47,5 +47,8 @@
     <string name="recover_password">Recover your account password</string>
     <string name="verifying_your_acc">Verifying Your Account</string>
     <string name="just_sent_4_digit">We have just sent you 4 digit code via your email\n%s</string>
-    <string name="did_not_received_code">Didn&apos;t received code? </string>
+    <string name="did_not_received_code">Did not received code? </string>
+    <string name="create_new_password">Create New Password</string>
+    <string name="enter_password">Enter your new password</string>
+    <string name="label_confirm_password">Confirm Password</string>
 </resources>
