@@ -1,12 +1,14 @@
 package com.way.cinemax.presentation.ui.auth
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.way.cinemax.R
+import androidx.appcompat.app.AppCompatActivity
+import com.way.cinemax.databinding.ActivityAuthBinding
 
 class AuthActivity : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_auth)
+        val binding = ActivityAuthBinding.inflate(layoutInflater)
+        setContentView(binding.root)
     }
 }
