@@ -51,4 +51,5 @@
     <string name="create_new_password">Create New Password</string>
     <string name="enter_password">Enter your new password</string>
     <string name="label_confirm_password">Confirm Password</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
